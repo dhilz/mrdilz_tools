@@ -71,7 +71,7 @@
 
 ``` bash
 # Clone repository
-git clone https://github.com/dhilz/mrdilz.git
+git clone of the link repo / private repo
 cd mrdilz
 
 # Grant execute permission to the .deb file
